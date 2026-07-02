@@ -24,3 +24,8 @@ Hands-on AWS security engineering lab documenting 16+ days of real cloud securit
 - Platform: AWS Free Tier
 - Region: ap-south-1 (Mumbai)
 - Account: Personal lab account
+
+- ## Proof - Alarm Fired
+![CloudWatch Alarm Email](alarm-fired.png)
+
+Alarm triggered June 20, 2026 at 05:29 UTC. Root account used 16 times in a 5-minute window. Email received within 5 minutes of activity.
